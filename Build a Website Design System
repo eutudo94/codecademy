@@ -1,0 +1,59 @@
+index.html
+
+<head>
+  <link href="styles.css" rel="stylesheet">
+</head>
+<h1 class="title">This is a guide website of Micael Santos's FCC Personal Portfolio</h1>
+
+<h2 class="colors-title">Colors</h2>
+<h3>
+  This is the color pallete used in Micael Santos Free Code Camp last project,
+  the Personal Portfolio.
+</h3>
+<div class="flex-colors">
+  <h4 class="prussian-blue">HEX: #003049 Prussian Blue</h4>
+  <h4 class="maximum-red">HEX: #D62828 Maximum Red</h4>
+  <h4 class="orange">HEX: #F77F00 Orange</h4>
+  <h4 class="maximum-yellow-red">HEX: #FCBF49 Maximum Yellow Red</h4>
+  <h4 class="lemon-meringue">HEX: #EAE2B7 Lemon Meringue</h4>
+</div>
+
+<h2 class="fonts">Fonts</h2>
+<h4 class="font-type1">Quicksand</h4>
+<p class="quicksand-regular400">Almost before we knew it, we had left the...</p>
+<p class="quicksand-bold">Almost before we knew it, we had left the...</p>
+<p class="quicksand-italic">Almost before we knew it, we had left the...</p>
+
+<br />
+
+<h4 class="font-type2">Comfortaa</h4>
+<p class="comfortaa-regular400">Almost before we knew it, we had left the...</p>
+<p class="comfortaa-bold">Almost before we knew it, we had left the...</p>
+<p class="comfortaa-italic">Almost before we knew it, we had left the...</p>
+
+<br />
+
+<h2>Text Styles</h2>
+<div class="text-styles">
+<h1 class="style1">H1: Main page heading</h1>
+<ul>
+  <li>Font-weight: 400(regular)</li>
+  <li>Font-size: 96px (300% in the original project)</li>
+  <li>Font-family: Comfortaa</li>
+
+</ul>
+
+<h1 class="style2">H1: Main page heading</h1>
+<ul>
+  <li>Font-weight: 400(regular)</li>
+  <li>Font-size: 96px (300% in the original project)</li>
+  <li>Font-family: Nunito Sans</li>
+</ul>
+
+<h1 class="style3">list / Menus</h1>
+<ul>
+  <li>Font-weight: 700(regular)</li>
+  <li>Font-size: 16px (100% used in the original project)</li>
+  <li>Font-family: Quicksand</li>
+</ul>
+</div>
